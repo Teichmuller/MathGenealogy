@@ -1,2 +1,2 @@
 # MathGenealogy
-Visualization
+It is still a prototype.
